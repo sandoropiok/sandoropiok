@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I'm Sandr Opiok<br>👀 Interested: in Web Development and coding.<br>🌱 Currently Learning:  I'm student at DCI (Fullstack Developer), and learn React, JS, HTML, CSS.<br>💞️ Collaboration:  I would be very happy to collaborate with like-minded programmers and make my contribution.<br>📫 How to reach me:  sasha.opiok@gmail.com email me.<br>😄 Pronouns:  He/Him
+👋 Hi, I'm Sandor Opiok<br>👀 Interested: in Web Development and coding.<br>🌱 Currently Learning:  I'm student at DCI (Fullstack Developer), and learn React, JS, HTML, CSS.<br>💞️ Collaboration:  I would be very happy to collaborate with like-minded programmers and make my contribution.<br>📫 How to reach me:  sasha.opiok@gmail.com email me.<br>😄 Pronouns:  He/Him
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0p10k#5620) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/0p10k) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0pi0k) 
